@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:wakatime-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-Other   3 mins                ████████████▒░░░░░░░░░░░░   49.54 %
-Java    2 mins                ██████████▓░░░░░░░░░░░░░░   42.97 %
-C       0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:wakatime-->
